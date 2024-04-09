@@ -9,7 +9,7 @@ void main() async
 
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-        apiKey: "AIzaSyCyUxHRua2aL0P63pBJc0yy-B49P5113Pw",
+        apiKey: "(API KEY HERE)",
         authDomain: "uberclone-6857b.firebaseapp.com",
         databaseURL: "https://uberclone-6857b-default-rtdb.firebaseio.com",
         projectId: "uberclone-6857b",
